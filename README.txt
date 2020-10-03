@@ -1,0 +1,1 @@
+This model classifies x-ray images with pneumonia.
